@@ -14,7 +14,7 @@ The function should:
   
   Example createMenuItem('tacos', 8, 'Lunch') should return {name: 'tacos', price: 8, category: 'Lunch'}
 */
-
+// pass 3parame name price category
 function createMenuItem(/*Your code here*/){
     /*Your code here*/
 }
@@ -28,7 +28,7 @@ Test your createMenuItems function by doing the following:
   
   For example: createMenuItem("pizza",5,"lunch") would return this as the object: {name:"Pizza",price:5,category:"lunch"}
 */
-
+// not graded -we just invoking 1a 3times
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
@@ -50,7 +50,7 @@ const burger = {
   
 }
 
-
+// method called discount and you are giving teacher and student a discount and public a different discount, we need to use 'this' when referencing akey inside of a method-this.price, not updating value of price just return discounted price leave price 18 alone
 
 ///////////////Reviews (MVP)///////////////////
 const reviews = [
@@ -69,7 +69,7 @@ Using the reviews array above:
   1. log only Julius' feedback to the console - no function needed 
 */
 
-
+// not graded- just conlose log
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
@@ -91,7 +91,7 @@ Write a function that creates an object with name, rating, feedback, add the new
   3. The function should push the following object to the array: {name: 'Daniela', rating: 5, review: 'Beautiful atmosphere and wonderful vegan options!' }
   4. should return the resulting array
 */
-
+// pass Array,name,rating, feedback as parameter
 function addReview(/*Your Code Here */){
   /*Your Code Here */
 }
